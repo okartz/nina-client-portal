@@ -1,8 +1,13 @@
-Upload all four files to the root of your welcome-nina GitHub repository:
-- index.html
-- favicon.png
-- inspiration-photo.png
-- editorial-photo.png
+GITHUB UPLOAD INSTRUCTIONS
 
-Replace the existing index.html. Do not rename the files.
-The visible page design is unchanged; only embedded images were moved into separate files.
+1. Unzip this package on your computer.
+2. Open the nina-client-portal repository on GitHub.
+3. Choose Add file > Upload files.
+4. Drag every file from this folder into GitHub. Do not upload the ZIP itself.
+5. Confirm index.html is being replaced, then commit the upload to main.
+6. Wait for the GitHub Pages deployment to finish.
+7. Send: https://okartz.github.io/nina-client-portal/?preview=3
+
+Keep the existing preview.png, favicon.png, editorial-photo.png, and signature.png
+files in the repository. This package adds a fresh preview-card.jpg to bypass the
+old Apple Messages preview cache.
